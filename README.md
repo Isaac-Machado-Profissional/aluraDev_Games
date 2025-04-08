@@ -1,5 +1,5 @@
 # aluraDev JavaScript Games
-Simple games, using JavaScript, with a Round6 theme.
+Simple games, using JavaScript, with a Round 6 theme.
 
 # Requisitos para visualizar qualquer jogo em seu navegador:
 
