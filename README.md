@@ -12,7 +12,7 @@ Leve e rápida instalação deste pacote com todos os jogos.
 git clone https://github.com/Isaac-Machado-Profissional/aluraDev_JavaScript-Games.git
 ```
 
-## Inicilaização: 
+## Inicialização: 
 
 1. Entrar na pasta do jogo desejado.
 ```bash
@@ -24,7 +24,7 @@ cd nome_do_jogo
 npm install
 ```
 
-3. Iniciar o projeto automaticamente no seu principal navegador na porta 8080. 
+3. Iniciar o projeto automaticamente no seu principal navegador a partir da porta 8080. 
 ```bash
 npm start
 ```
