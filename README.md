@@ -1,12 +1,12 @@
 # aluraDev JavaScript Games
-Simple games, using JavaScript
+Simple games, using JavaScript, with a Round6 theme.
 
 # Requisitos para visualizar qualquer jogo em seu navegador:
 
 - [Node.Js](https://nodejs.org/pt)
 
 # Instalação de todos os jogos: 
-Leve e rápida instalação deste repositórios com todos os jogos. 
+Leve e rápida instalação deste repositório com todos os jogos. 
 
 ```bash
 git clone https://github.com/Isaac-Machado-Profissional/aluraDev_JavaScript-Games.git
