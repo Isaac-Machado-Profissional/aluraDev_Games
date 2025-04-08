@@ -1,0 +1,29 @@
+{
+  "name": "pontedevidro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaac-Machado-Profissional/aluraDev_JavaScript-Games.git"
+  },
+  "keywords": [
+    "Alura"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaac-Machado-Profissional/aluraDev_JavaScript-Games/issues"
+  },
+  "homepage": "https://github.com/Isaac-Machado-Profissional/aluraDev_JavaScript-Games#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.99.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.1"
+  }
+}
