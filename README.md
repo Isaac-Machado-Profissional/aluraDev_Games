@@ -6,7 +6,7 @@ Simple games, using JavaScript
 - [Node.Js](https://nodejs.org/pt)
 
 # Instalação de todos os jogos: 
-Leve e rápida instalação deste pacote com todos os jogos. 
+Leve e rápida instalação deste repositórios com todos os jogos. 
 
 ```bash
 git clone https://github.com/Isaac-Machado-Profissional/aluraDev_JavaScript-Games.git
